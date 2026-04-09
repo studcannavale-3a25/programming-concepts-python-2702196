@@ -13,7 +13,7 @@ def make_omelette():
     omelette = 'a tasty omelette'
     return omelette
 
-def make_pancake():
+def make_pancakes():
     mix_and_cook()
     pancake = 'a delicious pancake'
     return pancake
